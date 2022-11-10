@@ -5,14 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
-amazon-example
+downloads/
+logs/
+results/
 
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
@@ -110,8 +111,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-results/
-logs/
+downloads/
 
 # Spyder project settings
 .spyderproject
